@@ -71,7 +71,7 @@ function Hero() {
               LinkedIn
             </a>
             <a
-              href="/resume/Sameer_Ali_Backend_Engineer.pdf"
+              href="/resume/Nickleyde_Onyango_System_Administrator.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-lg border border-zinc-800 bg-zinc-900 px-4 py-2 text-sm font-medium text-zinc-100 transition-colors hover:bg-zinc-800"
