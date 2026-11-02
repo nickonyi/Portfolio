@@ -43,7 +43,7 @@ function Contact() {
 
             {/* LinkedIn - Secondary */}
             <a
-              href="https://www.linkedin.com/in/nickleyde-onyango-586436246/"
+              href="https://www.linkedin.com/in/nickleyde-onyango/"
               target="_blank"
               rel="noopener noreferrer"
               className="group rounded-xl border border-zinc-800/60 bg-zinc-900/30 p-5 transition-colors hover:bg-zinc-900/50"

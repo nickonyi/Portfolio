@@ -62,7 +62,7 @@ function About() {
                 Bachelor of Technology in Information Technology
               </p>
               <p className="text-xs text-zinc-600">
-                Second Class Honours, Upper Division
+                Technical University of Kenya
               </p>
             </div>
           </div>

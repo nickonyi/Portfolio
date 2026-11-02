@@ -8,8 +8,8 @@ function Hero() {
         <div className="mx-auto max-w-4xl">
           <div className="mb flex items-center gap-4">
             <img
-              src="https://github.com/devxsameer.png"
-              alt="Sameer Ali"
+              src="/profile.jpg"
+              alt="Nick onyi"
               className="h-24 w-24 rounded-full ring-2 ring-zinc-800"
             />
             <div>
@@ -62,7 +62,7 @@ function Hero() {
               GitHub
             </a>
             <a
-              href="https://www.linkedin.com/in/nickleyde-onyango-586436246/"
+              href="https://www.linkedin.com/in/nickleyde-onyango/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-lg border border-zinc-800 bg-zinc-900 px-4 py-2 text-sm font-medium text-zinc-100 transition-colors hover:bg-zinc-800"
