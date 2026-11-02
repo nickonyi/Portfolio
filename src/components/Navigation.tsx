@@ -44,7 +44,7 @@ function Navigation() {
               Contact
             </a>
             <a
-              href="/resume/Sameer_Ali_Backend_Engineer.pdf"
+              href="/resume/Nickleyde_Onyango_System_Administrator.pdf"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Download resume"
