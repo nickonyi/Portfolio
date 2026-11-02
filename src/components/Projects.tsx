@@ -98,28 +98,6 @@ function Projects() {
                       Live
                     </a>
                   )}
-                  {project.links.dashboard && (
-                    <a
-                      href={project.links.dashboard}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1.5 text-xs font-medium text-zinc-500 transition-colors hover:text-zinc-300"
-                    >
-                      <FiExternalLink className="h-3.5 w-3.5" />
-                      Dashboard
-                    </a>
-                  )}
-                  {project.links.docs && (
-                    <a
-                      href={project.links.docs}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="inline-flex items-center gap-1.5 text-xs font-medium text-zinc-500 transition-colors hover:text-zinc-300"
-                    >
-                      <FiExternalLink className="h-3.5 w-3.5" />
-                      API Docs
-                    </a>
-                  )}
                 </div>
               </div>
             ))}

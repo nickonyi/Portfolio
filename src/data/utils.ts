@@ -83,3 +83,61 @@ export const projects = [
     },
   },
 ];
+
+export const primarySkills = {
+  title: "IT Infrastructure & Systems Administration",
+  subtitle: "Core Experience",
+  skills: [
+    "Windows Server",
+    "Linux Administration",
+    "Active Directory",
+    "DNS & Network Troubleshooting",
+    "VPN & Remote Administration",
+    "System Deployment & Configuration",
+    "Backup & Recovery",
+  ],
+};
+
+export const secondarySkills = [
+  {
+    title: "Software Engineering",
+    subtitle: "Application Development",
+    skills: [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Express",
+      "REST API Development",
+      "PostgreSQL",
+      "Prisma ORM",
+    ],
+  },
+  {
+    title: "Automation & Integration",
+    subtitle: "Process Improvement",
+    skills: [
+      "PowerShell",
+      "JavaScript Scripting",
+      "REST API Integration",
+      "File Transfer Automation",
+      "Database Operations",
+      "Workflow Improvement",
+    ],
+  },
+];
+
+export const practices = {
+  title: "Engineering Practices",
+  subtitle: "How I Approach Problems",
+  skills: [
+    "Troubleshooting & Root Cause Analysis",
+    "System Configuration & Maintenance",
+    "Database Design",
+    "Authentication & Authorization",
+    "API Design & Integration",
+    "Technical Documentation",
+    "Application Deployment",
+    "Backup & Recovery Planning",
+  ],
+};
